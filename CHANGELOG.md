@@ -1,6 +1,9 @@
 # Changelog
 
 
+## v1.1.0
+* Verified for v12
+
 ## v1.0.1 – 7 May 2024
 * Fixed sound not playing on adding new Socket
 
