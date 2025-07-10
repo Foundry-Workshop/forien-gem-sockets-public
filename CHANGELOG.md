@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.0.0 - 10 July 2025
+* Verified for v13
+* Updated for DND5e 5.0.0
+    * Fixed Gem Icons not being rendered on Actor's Sheet
+    * Fixed Socket tab not being rendered on Item's Sheet
+    * Improved Socket Tab UI
+* Updated Gem Sheet to extend the new AppV2 version of ItemSheet5e
 
 ## v1.1.0 – 18 June 2024
 * Verified for v12
